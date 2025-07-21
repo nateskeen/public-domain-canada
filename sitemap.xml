@@ -17,25 +17,32 @@
     <loc>https://example.org/tags/</loc>
     <lastmod>2025-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/civil-rights-speech-malcolm-x-public-domain/</loc>
-    <lastmod>1964-04-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/catalogue/</loc>
     <lastmod>1964-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/catalogue/malcolm-x-speech/</loc>
+    <loc>https://example.org/tags/civil-rights/</loc>
+    <lastmod>1964-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/malcolm-x/</loc>
+    <lastmod>1964-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/catalogue/docs/malcolm-x-speech/malcolm-x-speech/</loc>
+    <lastmod>1964-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/public-domain/</loc>
+    <lastmod>1964-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/speech/</loc>
     <lastmod>1964-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/photography-portrait-robert-cornelius-public-domain/</loc>
     <lastmod>1839-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/catalogue/vintage-postcard/</loc>
+    <loc>https://example.org/catalogue/docs/vintage-postcard/vintage-postcard/</loc>
     <lastmod>1839-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/about/</loc>
   </url><url>
     <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/catalogue/home-movie/</loc>
   </url>
 </urlset>

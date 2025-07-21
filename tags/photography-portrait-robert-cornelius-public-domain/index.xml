@@ -17,19 +17,25 @@
     
     <item>
       <title>Self-Portrait by Robert Cornelius</title>
-      <link>https://example.org/catalogue/vintage-postcard/</link>
+      <link>https://example.org/catalogue/docs/vintage-postcard/vintage-postcard/</link>
       <pubDate>Fri, 01 Nov 1839 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/catalogue/vintage-postcard/</guid>
+      <guid>https://example.org/catalogue/docs/vintage-postcard/vintage-postcard/</guid>
       <description>
         
         
-        &lt;p&gt;## Description&lt;/p&gt;
-&lt;p&gt;This 1839 daguerreotype by Robert Cornelius is one of the first photographic self-portraits in history. Captured using early photographic technology, it remains a striking and iconic image from the dawn of photography.&lt;/p&gt;
-&lt;p&gt;## View the Image&lt;/p&gt;
-&lt;p&gt;![Robert Cornelius Self-Portrait](/1839_Self-portrait_by_Robert_Cornelius_(cropped).jpg)&lt;/p&gt;
-&lt;p&gt;## Source&lt;/p&gt;
-&lt;p&gt;[Wikipedia – Robert Cornelius](&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Robert&lt;/a&gt;_Cornelius)&lt;/p&gt;
+        &lt;h2&gt;Description&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;description&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#description&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This 1839 daguerreotype by Robert Cornelius is one of the first photographic self-portraits in history. Captured using early photographic technology, it remains a striking and iconic image from the dawn of photography.&lt;/p&gt;
+&lt;h2&gt;View the Image&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;view-the-image&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#view-the-image&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://example.org/1839_Self-portrait_by_Robert_Cornelius_(cropped).jpg&#34; alt=&#34;Vintage Postcard&#34; style=&#34;
+width: 100%;
+border-radius: 8px;
+object-fit: contain;
+max-height: 400px;
+display: block;
+&#34;/&gt;&lt;/p&gt;
+&lt;h2&gt;Source&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;source&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#source&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert%5c_Cornelius&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia – Robert Cornelius&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
