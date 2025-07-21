@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> – [&#34;Photography&#34;, &#34;Portrait&#34;, &#34;Robert Cornelius&#34;, &#34;Public Domain&#34;]</title>
+    <link>https://example.org/tags/photography-portrait-robert-cornelius-public-domain/</link>
+    <description>Recent content in [&#34;Photography&#34;, &#34;Portrait&#34;, &#34;Robert Cornelius&#34;, &#34;Public Domain&#34;] on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 1839 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://example.org/tags/photography-portrait-robert-cornelius-public-domain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Self-Portrait by Robert Cornelius</title>
+      <link>https://example.org/catalogue/vintage-postcard/</link>
+      <pubDate>Fri, 01 Nov 1839 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/catalogue/vintage-postcard/</guid>
+      <description>
+        
+        
+        &lt;p&gt;## Description&lt;/p&gt;
+&lt;p&gt;This 1839 daguerreotype by Robert Cornelius is one of the first photographic self-portraits in history. Captured using early photographic technology, it remains a striking and iconic image from the dawn of photography.&lt;/p&gt;
+&lt;p&gt;## View the Image&lt;/p&gt;
+&lt;p&gt;![Robert Cornelius Self-Portrait](/1839_Self-portrait_by_Robert_Cornelius_(cropped).jpg)&lt;/p&gt;
+&lt;p&gt;## Source&lt;/p&gt;
+&lt;p&gt;[Wikipedia – Robert Cornelius](&lt;a href=&#34;https://en.wikipedia.org/wiki/Robert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Robert&lt;/a&gt;_Cornelius)&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
