@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> – [&#34;Civil Rights&#34;, &#34;Speech&#34;, &#34;Malcolm X&#34;, &#34;Public Domain&#34;]</title>
+    <link>https://example.org/tags/civil-rights-speech-malcolm-x-public-domain/</link>
+    <description>Recent content in [&#34;Civil Rights&#34;, &#34;Speech&#34;, &#34;Malcolm X&#34;, &#34;Public Domain&#34;] on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 1964 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://example.org/tags/civil-rights-speech-malcolm-x-public-domain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Malcolm X - World Wide Revolution</title>
+      <link>https://example.org/catalogue/malcolm-x-speech/</link>
+      <pubDate>Fri, 03 Apr 1964 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/catalogue/malcolm-x-speech/</guid>
+      <description>
+        
+        
+        &lt;p&gt;## Summary&lt;/p&gt;
+&lt;p&gt;In this 1965 speech, Malcolm X discusses the interconnectedness of global liberation movements and the fight for civil rights in the United States. He frames Black struggles within the broader context of anti-colonial resistance and international human rights.&lt;/p&gt;
+&lt;p&gt;## Listen to the Speech&lt;/p&gt;
+&lt;audio controls&gt;
+&lt;p&gt;  &lt;source src=&#34;https://ia601704.us.archive.org/32/items/Malcolm\_X/Malcolm\_X\_World\_Wide\_Revolution.ogg&#34; type=&#34;audio/ogg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;  Your browser does not support the audio element.&lt;/p&gt;
+&lt;/audio&gt;
+&lt;p&gt;## Source&lt;/p&gt;
+&lt;p&gt;[Internet Archive – Malcolm X Collection](&lt;a href=&#34;https://archive.org/details/Malcolm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://archive.org/details/Malcolm&lt;/a&gt;_X)&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
